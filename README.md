@@ -1,4 +1,4 @@
 # apnacollege-demo
 this my first repository.
 <br>
-Author - sachin patel
+Author - sachin patel (apna college)
